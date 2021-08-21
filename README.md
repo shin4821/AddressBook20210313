@@ -5,8 +5,8 @@
 * 사용언어: C++
 * 개발환경: Visual Studio 2019
 * 사용기술: 
- - MFC
- - MySQL
+  - MFC
+  - MySQL
 
 프로젝트 상세내용
 =============
